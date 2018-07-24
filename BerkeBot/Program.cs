@@ -52,7 +52,7 @@ namespace BerkeBot
       
       if (e.Username == "Pyros" && e.Status == UserStatus.Online)
       {
-        await channel.SendMessageAsync($"My King " + e.Username + " has arrived! Do you need your daily ball sucking, sir?");
+        await channel.SendMessageAsync($"Merhaba gencler, ben bi dus alicam, 15 dakkaya gelirim");
       }
     }
 
